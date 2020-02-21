@@ -66,13 +66,4 @@ public class SpotifyCharts {
 				lineArray[0] + " " + lineArray[1] + " " + lineArray[2] + " " + lineArray[3] + " " + lineArray[4]);
 
 	}
-	public static void whoIsTopStreamedArtist(HashMap<String, Integer> hashMap){
-		//TODO HINT: Use the same for loop we used before and just keep track of who's got
-		// the highest count
-		
-		
-	}
-	public static void sortArtistsAlphabetically() {
-		//TODO U got dis
-	}
 }
